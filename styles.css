@@ -1,0 +1,35 @@
+html    {
+	background-color: #3c2c0c;
+}
+body  {
+	background-color: #e8e0ac;
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+
+img {
+	width: 92.5%;
+	max-width: 100%;
+	border: 4px solid #6b2702;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 35px;
+	background-color: #000000;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	border: 2px solid #000000;
+	background-color: #fff;
+}
+
+.edu
+	{
+	color: #940917;
+}
+.work
+	{
+	color: #10026b
+}
